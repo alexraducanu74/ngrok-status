@@ -1,1 +1,1 @@
-ngrok URL as of Sat 21 Jun 2025 06:13:46 PM EEST: https://0031-83-103-236-242.ngrok-free.app
+https://42a3-83-103-236-242.ngrok-free.app
